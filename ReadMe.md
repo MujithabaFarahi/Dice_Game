@@ -1,0 +1,1 @@
+A Mobile Game developed using KOTLIN ANDROID. Computer and player will roll 5 dices each until reach the target.
