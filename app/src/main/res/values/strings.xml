@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DICE ROLLER</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+    <string name="about_text">"Mujithaba Farahi" \n 20210237 \n \n  "I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged."</string>
+    <string name="throw_button">Throw Dice</string>
+    <string name="win_messege">""\n"" \n "YOU WIN!"</string>
+    <string name="lose_messege">""\n ""\n "YOU LOSE!"</string>
+    <string name="target">Target :</string>
+    <string name="target_val">101</string>
+    <string name="roller">Roller</string>
+    <string name="dice">Dice</string>
+    <string name="computer_dices">Computer Dices</string>
+    <string name="player_dices">Player Dices</string>
+    <string name="throw_">Throw</string>
+    <string name="scores">Scores</string>
+    <string name="temp">--</string>
+    <string name="human">Human :</string>
+    <string name="computer">Computer :</string>
+    <string name="h_c">H:0 / C:0</string>
+    <string name="hard_mode">Hard Mode</string>
+    <string name="ok">OK</string>
+    <string name="dice_roller">Dice Roller</string>
+    <string name="score">Score</string>
+    <string name="__">--</string>
+</resources>
